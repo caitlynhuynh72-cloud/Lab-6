@@ -1,0 +1,13 @@
+.Contactbtn {
+    color:rgb(93, 218, 93);
+}
+
+
+:root {
+--bs-primary-bg: green;
+--bs-primary-fg: #0f7619;
+--bs-primary-fg-emphasis: #0ea50e;
+--bs-primary-border: #043c04;
+--bs-primary-focus-ring: #0f7633;
+--bs-primary-contrast: #ffffff;
+}

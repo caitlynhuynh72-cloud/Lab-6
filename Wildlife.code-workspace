@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../In-class activities/Wildlife"
+		},
+		{
+			"name": "Lab-6",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lab-6"
+	}
+}
