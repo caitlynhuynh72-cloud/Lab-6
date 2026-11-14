@@ -1,5 +1,6 @@
 .Contactbtn {
-    color:rgb(93, 218, 93);
+    color:rgb(203, 247, 203);
+    background-color:green;
 }
 
 
@@ -10,4 +11,9 @@
 --bs-primary-border: #043c04;
 --bs-primary-focus-ring: #0f7633;
 --bs-primary-contrast: #ffffff;
+}
+
+.foot {
+    text-align: center;
+    margin-top: 100px;
 }
